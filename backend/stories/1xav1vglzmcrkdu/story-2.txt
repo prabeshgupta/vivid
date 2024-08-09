@@ -1,0 +1,1 @@
+Apple's new patent introduces 'Heartbeat Unlock' for iPhone 17, using heart signals for user identification. This feature, built on the Apple Watch's ECG technology, uses hidden leads to detect cardiac signals.

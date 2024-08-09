@@ -1,0 +1,1 @@
+Apple has patented a method to identify users by their heartbeats using hidden sensors. This feature, built on the ECG tech from Apple Watch, detects heart activity and electrical signals through the device housing.

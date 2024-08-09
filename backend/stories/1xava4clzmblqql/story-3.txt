@@ -1,0 +1,1 @@
+This feature, built on the Apple Watch's ECG technology, detects cardiac signals through hidden leads in the device.
