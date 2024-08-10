@@ -1,0 +1,5 @@
+If you're reading this right now, you're using a computer. Maybe it's a laptop, maybe a desktop computer, or perhaps even a smartphone. They may look different, but they all share the same underlying technology. The more we understand how that technology works, the more we can use the computers around us to help make our world better.
+
+Every computer takes in input data, stores and processes it, and outputs results in some way.
+
+In this unit, we'll dive deeper into the workings of computers, starting with understanding how computers represent data as 1s and 0s, then finding out how they process 1s and 0s with logic circuits inside a CPU, and finally learning about file sizes and compression.

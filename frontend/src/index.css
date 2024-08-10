@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 body {
+  /* starts with the color rgb(9, 57, 64) (a dark teal) at 0% and transitions to black at 40%. */
   background: linear-gradient(rgb(9, 57, 64) 0%, black 40%), #000;
   @apply text-white min-h-dvh;
 }

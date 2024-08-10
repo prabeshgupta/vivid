@@ -1,0 +1,13 @@
+To remove all your YouTube comments and likes, follow these steps:
+
+1. Go to [myactivity.google.com/more-activity](https://myactivity.google.com/more-activity).
+2. Open your comments history and paste the following script into the developer console:
+```javascript
+function deleteItems() {
+    console.log("Removing next batch of items");
+    Array.from(document.querySelectorAll('button[aria-label*="Delete activity item"]')).slice(5).forEach((e) => {e.click()});
+}
+deleteItems();
+setInterval(deleteItems, 20 * 1000); // 4 seconds per item
+```
+3. Leave the tab open and wait. It may take a few hours depending on the number of items.

@@ -1,0 +1,1 @@
+To speed up the process, open another tab, scroll to the bottom, and paste the script again, replacing `5` with `-5`.

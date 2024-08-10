@@ -1,0 +1,1 @@
+Remember, the visual representation of comments is removed with a delay, so don't reload the webpage.
